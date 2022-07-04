@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-/**
- 
+/** 
  * main - entry point
  *
  * Description: prints a number and its last digit along with weather its
